@@ -49,5 +49,9 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
+  },  "babel": {
+
+    "presets": [ "@babel/preset-react", "@babel/preset-env" ]
+
   }
 }
